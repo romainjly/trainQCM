@@ -511,7 +511,7 @@ function iteration(id)
         score++;
         console.log("le score : " + score);
     } else if (selectedButton == "false") {
-        score-= 0.5;
+        score--;
         console.log("le score : " + score);
     }
 
