@@ -1,2 +1,2 @@
 # trainQCM
-entraoinement voc
+entrainement voc
