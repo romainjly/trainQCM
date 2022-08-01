@@ -599,7 +599,7 @@ nextbutton.addEventListener('click', () => {
     if (id > 49) {
         //window.confirm("Ton score est de " + score);
         document.body.innerHTML = "<div class=\"header\">\
-                                    <img src=\"../assets/img/cesi.png\" alt=\"cesi logo\">\
+                                    <a href=\"../index.html\"><img src=\"../assets/img/cesi.png\" alt=\"cesi logo\"></a>\
                                     </div><div class=\"quizz-container\">\
                                     <h1>Ton score est de :</h1>\
                                     <h1 id=\"score\">Score</h1>\
